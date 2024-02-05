@@ -42,6 +42,6 @@ The progress bar within the application will show the download progress.
 Once the download is complete, the application will display a message with the file's location, and the URL field will be cleared.
 
 ## Notes
--Ensure you have the legal rights to download content from YouTube.
--This script is intended for educational purposes and personal use only.
--Filename sanitization is essential to prevent errors due to invalid characters in file names on different operating systems
+- Ensure you have the legal rights to download content from YouTube.
+- This script is intended for educational purposes and personal use only.
+- Filename sanitization is essential to prevent errors due to invalid characters in file names on different operating systems
